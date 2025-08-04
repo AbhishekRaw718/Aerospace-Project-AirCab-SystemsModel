@@ -74,6 +74,6 @@ The **AirCab eVTOL** initiative represents a highly integrated, system-level eng
 
 ## 👨‍💻 Author
 
-**Dhruv Tiwari**  
+**Abhishek Rawal**  
 Graduate Student – Engineering Management  
 University of Massachusetts Amherst  
